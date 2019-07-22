@@ -1,0 +1,41 @@
+<!doctype html>
+<html>
+<head>
+<meta charset="utf-8">
+<!-- TemplateBeginEditable name="doctitle" -->
+<title>Proyecto02</title>
+<!-- TemplateEndEditable -->
+<!-- TemplateBeginEditable name="head" -->
+<!-- TemplateEndEditable -->
+</head>
+ <link href="../EstiloPlantilla02.css" rel="stylesheet" tipe="tesxt/css">
+<body>
+     <section id="contenedor">
+       <header>
+             <img src="../Imagenes02/Paul Muller.jpg" alt="Paul Muller" id="logoimagen">
+             <img src="../Proyecto02/Imagenes/Cursos de actualizacion.jpg" alt="Curso de Actualizacion" id="Logoimage">
+            <section id="Inicio">
+           		 <h3>Inicio</h3>
+            </section>
+            
+     </header>
+      <nav>
+             <ul id="Menú">
+             <li><a href="../Quienes somos.html">¿Quienes Somos?</a></li>
+             <li><a href="../Cursos.html">Cursos</a></li>
+             <li><a href="../galeria de fotos.html">Galeria de Fotos</a></li>
+             <li><a href="../descripcion de carreras.html">Descripcion de carreras</a></li>
+             </ul> 
+           </nav>  
+     <section id="CuerpoDocumento">
+	 <!-- TemplateBeginEditable name="EditRegion3" --> <!-- TemplateEndEditable -->
+     
+     </section>
+     
+     <footer>
+     <h4>Todos los Derechos Reservados</h4>
+     
+     </footer>
+</section>
+</body>
+</html>
